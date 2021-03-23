@@ -7,6 +7,8 @@ public class GitHubDemoThree {
 		System.out.println("Devora");
 		
 		System.out.println("Helen");
+		
+		System.out.println("Leidy");
 	}
 	
 	//you added new code and now you have to share it with the team
